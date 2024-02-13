@@ -1,0 +1,30 @@
+export const studentsData = [
+  { rank: 1, id: 1, name: 'John Doe', grade: 'A', age: 20, percentage: 90 },
+  { rank: 2, id: 2, name: 'Jane Smith', grade: 'B', age: 22, percentage: 80 },
+  { rank: 3, id: 3, name: 'Bob Johnson', grade: 'C', age: 21, percentage: 70 },
+  { rank: 4, id: 4, name: 'Alice Williams', grade: 'A', age: 23, percentage: 90 },
+  { rank: 5, id: 5, name: 'Charlie Brown', grade: 'B', age: 20, percentage: 80 },
+  { rank: 6, id: 6, name: 'Eva Davis', grade: 'C', age: 22, percentage: 70 },
+  { rank: 7, id: 7, name: 'Frank Miller', grade: 'A', age: 21, percentage: 90 },
+  { rank: 8, id: 8, name: 'Grace Wilson', grade: 'B', age: 23, percentage: 80 },
+  { rank: 9, id: 9, name: 'Henry Turner', grade: 'C', age: 20, percentage: 70 },
+  { rank: 10, id: 10, name: 'Ivy Robinson', grade: 'A', age: 22, percentage: 90 },
+];
+
+export const marvelCharactersData = [
+  { id: 1, name: 'Iron Man', category: 'Hero' },
+  { id: 2, name: 'Captain America', category: 'Hero' },
+  { id: 3, name: 'Thor', category: 'Hero' },
+  { id: 4, name: 'Black Widow', category: 'Hero' },
+  { id: 5, name: 'Spider-Man', category: 'Hero' },
+  { id: 6, name: 'Deadpool', category: 'Anti-Hero' },
+  { id: 7, name: 'Wolverine', category: 'Anti-Hero' },
+  { id: 8, name: 'Venom', category: 'Anti-Hero' },
+  { id: 9, name: 'Punisher', category: 'Anti-Hero' },
+  { id: 10, name: 'Elektra Natchios', category: 'Anti-Hero' },
+  { id: 11, name: 'Thanos', category: 'Villain' },
+  { id: 12, name: 'Kang', category: 'Villain' },
+  { id: 13, name: 'Green Goblin', category: 'Villain' },
+  { id: 14, name: 'Magneto', category: 'Villain' },
+  { id: 15, name: 'Doctor Octopus', category: 'Villain' },
+];
